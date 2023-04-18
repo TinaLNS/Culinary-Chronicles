@@ -1,0 +1,32 @@
+h1 {
+    background-color: purple;
+}
+
+div {
+    color: pink;
+} 
+
+.cuisine-list {
+    font-size: 20px;
+
+}
+
+#fav-dish {
+    font-style: italic;
+}
+
+.recipe {
+    text-decoration: dashed;
+    text-shadow: 10rem;
+}
+
+h3 {
+    text-align: center;
+    box-shadow: inset;
+}   
+
+main {
+    border-radius: 20px;
+    width: fit-content;
+    opacity: 1.0;
+}
