@@ -45,6 +45,11 @@ div {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    color: aquamarine;
+}
+
+a {
+    color:azure
 }
 
 h3 {
@@ -54,6 +59,9 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    color: rgb(121, 29, 29);
+    font: 30px bold;
+    background-color: pink;
 }   
 
 main {
