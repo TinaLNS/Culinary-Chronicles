@@ -2,17 +2,11 @@ body {
     text-align: justify;
     background-image: url(https://img.freepik.com/premium-photo/black-stone-food-background-cooking-ingredients-top-view-free-space-your-text_187166-12991.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-  
+    background-size: cover;  
 }
 
 h1 {
     background-color: purple;
-    text-align: center;
-    color: bisque;
-}
-
-h3 {
     text-align: center;
     color: bisque;
 }
@@ -44,10 +38,6 @@ div {
     text-align: center;
 }
 
-div.cuisine-list {
-    text-align: center;
-}
-
 .recipe {
     text-decoration: dashed;
     text-shadow: 10rem;
@@ -70,7 +60,6 @@ main {
     border-radius: 20px;
     width: fit-content;
     opacity: 1.0;
-    
 }
 
 img {
