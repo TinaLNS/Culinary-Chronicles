@@ -1,35 +1,59 @@
+body {
+    text-align: justify;
+    background-image: url(https://img.freepik.com/premium-photo/black-stone-food-background-cooking-ingredients-top-view-free-space-your-text_187166-12991.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
 h1 {
-    background-color: rgb(144, 8, 144);
+    background-color: purple;
     text-align: center;
+    color: bisque;
 }
-
-img {
-    border-radius: 0.5em;
-    width: 400px;
-    height: 400px;
-}
-
 div {
     color: pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
 } 
 
 .cuisine-list {
     font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    text-align: center;
 
 }
 
 #fav-dish {
     font-style: italic;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
 }
 
 .recipe {
     text-decoration: dashed;
     text-shadow: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 
 h3 {
     text-align: center;
     box-shadow: inset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }   
 
 main {
@@ -37,3 +61,17 @@ main {
     width: fit-content;
     opacity: 1.0;
 }
+
+img {
+    width: 150px;
+    border-radius: 100;
+    opacity: 0.9;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-style: double;
+    border: 5px solid purple;
+    
+}
+
