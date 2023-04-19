@@ -1,5 +1,12 @@
 h1 {
     background-color: purple;
+    text-align: center;
+}
+
+img {
+    border-radius: 0.5em;
+    width: 400px;
+    height: 400px;
 }
 
 div {
